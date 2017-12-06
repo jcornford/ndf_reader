@@ -1,3 +1,5 @@
+********* THIS NEEDS UPDATING *********
+
 # ndf_reader
 A pure-python module for reading .ndf binary files (open source instruments http://www.opensourceinstruments.com/).
 
